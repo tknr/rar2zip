@@ -1,1 +1,2 @@
-# rezip
+# rar2zip
+
